@@ -1,1 +1,3 @@
 Se vampiros são caras grandes que se transformam em morcegos pequenos, o Batman que é um morcego grande vira um cara pequeno?
+
+"Yes" - PROLOG sobre PROLOG
